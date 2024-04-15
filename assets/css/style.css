@@ -9,19 +9,21 @@
 body {
     display: flex;
     flex-direction: column;
+    height: 100vh;
 }
 
 /*Header*/
 header {
-    background-color: #f7e40c;
+    background-color: #f8aa0d;
 }
 
 /*Main section*/
 main {
     background-color: #a3ed61;
+    flex: 1 0 auto;
 }
 
 /*Footer*/
 footer {
-    background-color: #f8aa0d;
+    background-color: #f7e40c;
 }
