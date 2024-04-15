@@ -5,3 +5,23 @@
     box-sizing: border-box;
 }
 
+/*General styles*/
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/*Header*/
+header {
+    background-color: #f7e40c;
+}
+
+/*Main section*/
+main {
+    background-color: #a3ed61;
+}
+
+/*Footer*/
+footer {
+    background-color: #f8aa0d;
+}
