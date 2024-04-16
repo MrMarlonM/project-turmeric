@@ -120,6 +120,12 @@ main {
     margin-right: 5px;
 }
 
+/*Styles for image benefits*/
+#image-benefits {
+    width: 30%;
+    object-fit: cover;
+}
+
 /*Footer*/
 footer {
     background-color: #f8aa0d;
