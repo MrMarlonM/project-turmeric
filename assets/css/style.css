@@ -60,11 +60,47 @@ li>a:hover {
 
 /*Main section*/
 main {
-    background-color: #f7e40c;
+    /*Properties flex child*/
     flex: 1 0 auto;
     width: 60%;
+    /*Properties flex parent*/
+    display: flex;
+    flex-direction: column;    
+    gap: 5px;
+}
+
+/*Styling for the different sections of the main-section*/
+.style-main {
     border: 2px black solid;
     box-shadow: 3px 3px 10px #000000;
+    background-color: #f7e40c;
+}
+
+/*Class for paragraphs facts*/
+.facts {
+    border: 2px black solid;
+    max-width: 25%;
+}
+
+/*Class for images facts*/
+.image-facts {
+    max-width: 60%;
+}
+
+/*Class to make section flex-container*/
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+/*Class for align left*/
+.align-left {
+    align-self: flex-start;
+}
+
+/*Class for align right*/
+.align-right {
+    align-self: flex-end;
 }
 
 /*Footer*/
