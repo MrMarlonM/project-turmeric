@@ -26,6 +26,7 @@ h2 {
 header {
     background-color: #f8aa0d;
     width: 60%;
+    max-width: 1057px;
     box-shadow: 3px 3px 10px #000000;
 }
 
@@ -64,6 +65,7 @@ main {
     /*Properties flex child*/
     flex: 1 0 auto;
     width: 60%;
+    max-width: 1057px;
     /*Properties flex parent*/
     display: flex;
     flex-direction: column;    
@@ -88,8 +90,8 @@ main {
 /*Class for images facts*/
 .image-facts {
     width: 60%;
-    height: 30%;
     box-shadow: 3px 3px 10px #000000;
+    object-fit: cover;
 }
 
 /*Class to make section flex-container*/
@@ -116,6 +118,7 @@ main {
 footer {
     background-color: #f8aa0d;
     width: 60%;
+    max-width: 1057px;
     border: 2px black solid;
     padding: 5px 0;
     display: flex;
