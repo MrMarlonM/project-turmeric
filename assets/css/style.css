@@ -13,12 +13,23 @@ body {
     align-items: center;
     width: 100wv;
     background-color: #a3ed61; 
+    text-align: center;
 }
 
 /*Header*/
 header {
     background-color: #f8aa0d;
     width: 60%;
+}
+
+#page-title {
+    font-size: 200%;
+    margin: 20px 0;
+}
+
+nav {
+    padding-bottom: 20px;
+    font-size: 150%;
 }
 
 nav > ul {
