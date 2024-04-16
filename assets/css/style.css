@@ -22,6 +22,7 @@ body {
 header {
     background-color: #f8aa0d;
     width: 60%;
+    box-shadow: 3px 3px 10px #000000;
 }
 
 #page-title {
@@ -60,6 +61,7 @@ main {
     flex: 1 0 auto;
     width: 60%;
     border: 2px black solid;
+    box-shadow: 3px 3px 10px #000000;
 }
 
 /*Footer*/
@@ -71,6 +73,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     font-size: 125%;
+    box-shadow: 3px 3px 10px #000000;
 }
 
 /*Logo in footer*/
