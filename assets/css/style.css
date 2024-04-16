@@ -11,11 +11,14 @@ body {
     flex-direction: column;
     height: 100vh;
     align-items: center;
-    width: 100wv;
-    background-color: #a3ed61; 
+    background-color: #a3ed61;
     text-align: center;
     gap: 5px;
     color: black;
+}
+
+h2 {
+    font-size: 200%;
 }
 
 /*Header*/
@@ -28,16 +31,16 @@ header {
 #page-title {
     font-size: 200%;
     padding: 15px 0;
-    border: 2px black solid; 
+    border: 2px black solid;
     border-bottom: 0;
 }
 
 /*Decoration for navigation section*/
 nav {
-   font-size: 150%;
+    font-size: 150%;
 }
 
-nav > ul {
+nav>ul {
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
@@ -45,12 +48,12 @@ nav > ul {
     padding: 5px 0;
 }
 
-li > a {
+li>a {
     text-decoration: none;
     color: #000000;
 }
 
-li > a:hover {
+li>a:hover {
     font-size: 125%;
     color: #a3ed61;
 }
@@ -77,12 +80,12 @@ footer {
 }
 
 /*Logo in footer*/
-span > a {
+span>a {
     color: black;
     text-decoration: none;
 }
 
-span > a:hover {
+span>a:hover {
     font-size: 125%;
     color: #a3ed61;
 }
