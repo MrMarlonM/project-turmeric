@@ -24,7 +24,9 @@ header {
 
 #page-title {
     font-size: 200%;
-    margin: 20px 0;
+    padding: 15px 0;
+    border: 2px black solid; 
+    border-bottom: 0;
 }
 
 /*Decoration for navigation section*/
