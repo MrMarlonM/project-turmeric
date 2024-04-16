@@ -83,6 +83,7 @@ main {
 
 /*Class for paragraphs facts*/
 .facts {
+    background-color: rgb(235, 255, 125);
     border: 2px black solid;
     box-shadow: 3px 3px 10px #000000;
     width: 30%;
