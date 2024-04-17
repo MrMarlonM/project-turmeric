@@ -168,6 +168,14 @@ main {
     max-width: 30%;
 }
 
+/*Style for social media logos*/
+#social-media a {
+    text-decoration: none;
+    color: black;
+    font-size: 200%;
+    margin: 15px;
+}
+
 /*Footer*/
 footer {
     background-color: #f8aa0d;
