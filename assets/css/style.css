@@ -121,6 +121,15 @@ main {
     justify-content: center;
 }
 
+/*Class to make section flex-container with columns*/
+.flex-container-column {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 10px;
+    margin: 10px 0;
+    justify-content: center;
+}
+
 /*Class for align left*/
 .align-left {
     order: -1;
@@ -135,6 +144,12 @@ main {
 
 /*Styles for image benefits*/
 #image-benefits {
+    width: 30%;
+    object-fit: contain;
+}
+
+/*Styles for images recipe-newsletter*/
+.image-recipe {
     width: 30%;
     object-fit: contain;
 }
