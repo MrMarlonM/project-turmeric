@@ -42,6 +42,13 @@ header {
 /*Decoration for navigation section*/
 nav {
     font-size: 150%;
+    background-color: #f8aa0d;
+    width: 80%;
+    max-width: 1057px;
+    box-shadow: 3px 3px 10px #000000;
+    /*Make navbar stick at top of page whilst scrolling*/
+    position: sticky;
+    top: 0; 
 }
 
 nav>ul {
