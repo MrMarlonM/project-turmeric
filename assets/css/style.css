@@ -1,3 +1,7 @@
+/*Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
 /*Asterix wildcard selector to override default styles; referenced from love running walkthrough project*/
 * {
     padding: 0;
@@ -7,13 +11,16 @@
 
 /*General styles*/
 body {
+    /*Flex parent properties*/
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 5px;
+    /*General style properties*/
     background-color: #a3ed61;
     text-align: center;
-    gap: 5px;
     color: black;
+    font-family: "Open Sans", sans-serif;
 }
 
 /*Heading 2 general style*/
@@ -35,7 +42,6 @@ header {
     font-size: 200%;
     padding: 15px 0;
     border: 2px black solid;
-    border-bottom: 0;
 }
 
 /*Decoration for navigation section*/
@@ -97,7 +103,6 @@ main {
     align-self: center;
     padding: 5px;
     text-align: start;
-    font-size: 125%;
 }
 
 /*Class for images facts*/
