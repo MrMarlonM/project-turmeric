@@ -158,14 +158,16 @@ main {
     max-width: 30%;
 }
 
-/*Style for signup form*/
-#signup {
-    max-width: 30%;
+/*Flex properties for signup + social media*/
+#signup-socialmedia {
+    max-width: 60%;
 }
 
-/*Style for social media*/
-#social-media {
-    max-width: 30%;
+/*Style for signup form*/
+
+#signup label, input {
+    font-size: 125%;
+    margin: 10px 5px;
 }
 
 /*Style for social media logos*/
