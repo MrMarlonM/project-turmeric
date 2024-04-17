@@ -124,7 +124,7 @@ main {
 /*Class to make section flex-container with columns*/
 .flex-container-column {
     display: flex;
-    flex-flow: column wrap;
+    flex-flow: column nowrap;
     gap: 10px;
     margin: 10px 0;
     justify-content: center;
@@ -150,8 +150,22 @@ main {
 
 /*Styles for images recipe-newsletter*/
 .image-recipe {
-    width: 30%;
-    object-fit: contain;
+    box-shadow: 3px 3px 10px #000000;
+    object-fit: cover;
+}
+
+#images-newsletter {
+    max-width: 30%;
+}
+
+/*Style for signup form*/
+#signup {
+    max-width: 30%;
+}
+
+/*Style for social media*/
+#social-media {
+    max-width: 30%;
 }
 
 /*Footer*/
