@@ -92,6 +92,7 @@ main {
     border: 2px black solid;
     box-shadow: 3px 3px 10px #000000;
     background-color: #f7e40c;
+    /*Padding to make space for nav bar*/
     padding: 48px 0;
 }
 
@@ -241,4 +242,38 @@ span>a {
 span>a:hover {
     font-size: 125%;
     color: #a3ed61;
+}
+
+/*Media query for tablet users*/
+@media only screen and (max-width: 900px) {
+
+    /*Header*/
+    header {
+        width: 95%;
+    }
+
+    #page-title {
+        font-size: 150%;
+    }
+
+    /*Decoration for navigation section*/
+    nav {
+        font-size: 125%;
+        width: 95%;
+    }
+
+    /*Main section*/
+    main {
+        width: 95%;
+    }
+    
+    /*Padding to make space for nav bar*/
+    .style-main {
+        padding: 42px 0;
+    }
+
+    /*Footer*/
+    footer {
+        width: 95%;
+    }
 }
