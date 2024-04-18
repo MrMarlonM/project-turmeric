@@ -28,6 +28,7 @@ body {
 h2 {
     font-size: 200%;
     margin: 10px 0;
+    padding-bottom: 15px;
 }
 
 /*Header*/
@@ -91,6 +92,7 @@ main {
     border: 2px black solid;
     box-shadow: 3px 3px 10px #000000;
     background-color: #f7e40c;
+    padding: 48px 0;
 }
 
 /*Class to make content bold*/
