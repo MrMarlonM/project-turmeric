@@ -278,8 +278,7 @@ span>a:hover {
     /*Make benefits-container flex-column*/
     #benefits-flex {
         flex-direction: column;
-        align-items: center;
-        }
+        align-items: center;    
     }
 
     /*Make content of benefits container wide enough*/
@@ -303,6 +302,7 @@ span>a:hover {
     footer {
         width: 95%;
     }
+}    
 
 @media only screen and (max-width: 700px) {
 
