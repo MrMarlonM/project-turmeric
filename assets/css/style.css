@@ -292,6 +292,10 @@ span>a:hover {
         width: 100%;
     }
 
+    li>a {
+        padding:0 10px;
+    }
+
     /*Main section*/
     main {
         width: 100%;
