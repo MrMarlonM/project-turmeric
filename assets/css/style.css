@@ -53,6 +53,7 @@ header {
 /*Decoration for navigation section*/
 nav {
     font-size: 150%;
+    font-weight: bold;
     background-color: #f8aa0d;
     width: 80%;
     max-width: 1057px;
@@ -294,7 +295,6 @@ span>a:hover {
     /*Decoration for navigation section*/
     nav {
         font-size: 100%;
-        font-weight: bold;
         width: 100%;
     }
 
@@ -368,6 +368,7 @@ span>a:hover {
     /*Style for social media*/
     #social-media p {
         margin-top: 25px;
+        padding: 0 5px;
     }
 
     /*Style footer*/
