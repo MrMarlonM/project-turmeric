@@ -233,7 +233,7 @@ footer {
     box-shadow: 3px 3px 10px #000000;
 }
 
-/*Logo in footer*/
+/*Links in footer*/
 span>a {
     color: black;
     text-decoration: none;
@@ -279,10 +279,6 @@ span>a:hover {
 }
 
 @media only screen and (max-width: 700px) {
-    /*Heading 2 general style*/
-    h2 {
-        font-size: 150%;
-    }
 
     /*Header*/
     header {
@@ -343,6 +339,10 @@ span>a:hover {
         order: 2;
     }
 
+    #different-currys {
+        display: none;
+    }
+
     /*Style for signup form*/
     #signup-socialmedia {
         max-width: 100%;
@@ -350,6 +350,11 @@ span>a:hover {
 
     #signup {
         max-width: 98%;
+    }
+
+    /*Style for social media*/
+    #social-media p {
+        margin-top: 25px;
     }
 
     /*Style footer*/
