@@ -352,4 +352,14 @@ span>a:hover {
         max-width: 98%;
     }
 
+    /*Style footer*/
+    footer {
+        width: 100%;
+        font-size: 80%;
+    }
+
+    #logo-footer {
+        font-size: 150%;
+    }
+    
 }
