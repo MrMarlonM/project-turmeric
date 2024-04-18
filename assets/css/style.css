@@ -321,10 +321,12 @@ span>a:hover {
     /*Classes to align content to one side*/
     .align-left {
         margin-left: 0;
+        order: 1;
     }
 
     .align-right {
         margin-right: 0;
+        order: 1;
     }
 
     /*Style for images benefits*/
