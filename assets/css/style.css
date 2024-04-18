@@ -31,6 +31,11 @@ h2 {
     padding-bottom: 15px;
 }
 
+/*Paragraphs general style*/
+p {
+    font-size: 110%;
+}
+
 /*Header*/
 header {
     background-color: #f8aa0d;
@@ -231,6 +236,7 @@ footer {
     justify-content: space-evenly;
     font-size: 125%;
     box-shadow: 3px 3px 10px #000000;
+    font-weight: bold;
 }
 
 /*Links in footer*/
