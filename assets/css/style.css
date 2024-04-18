@@ -217,6 +217,7 @@ legend {
 #social-media p {
     margin-bottom: 15px;
     font-weight: bold;
+    padding: 0 10px;
 }
 
 #social-media a {
@@ -273,7 +274,27 @@ span>a:hover {
     main {
         width: 95%;
     }
-    
+
+    /*Make benefits-container flex-column*/
+    #benefits-flex {
+        .flex-container {
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+
+    /*Make content of benefits container wide enough*/
+    #benefit1, #benefit2 {
+        width: 91%;
+    }
+
+    /*Style for images benefits*/
+    #image-benefits {
+        width: 80%;
+        max-height: 270px;
+        order: 1;
+    }
+
     /*Padding to make space for nav bar*/
     .style-main {
         padding: 42px 0;
@@ -299,7 +320,7 @@ span>a:hover {
     }
 
     li>a {
-        padding:0 10px;
+        padding: 0 10px;
     }
 
     /*Main section*/
@@ -339,13 +360,6 @@ span>a:hover {
         order: 1;
     }
 
-    /*Style for images benefits*/
-    #image-benefits {
-        width: 80%;
-        max-height: 270px;
-        order: 1;
-    }
-
     /*Style for images recipe-newsletter*/
     #images-newsletter {
         max-width: 80%;
@@ -368,7 +382,6 @@ span>a:hover {
     /*Style for social media*/
     #social-media p {
         margin-top: 25px;
-        padding: 0 5px;
     }
 
     /*Style footer*/
@@ -380,5 +393,5 @@ span>a:hover {
     #logo-footer {
         font-size: 150%;
     }
-    
+
 }
