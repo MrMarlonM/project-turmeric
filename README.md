@@ -67,6 +67,22 @@ On desktop devices as well as on mobile devices, the footer contains the name of
 ![Image of footer on desktop](documentation/footer.webp)
 
 ## Testing
+To make sure the website works as intended I tested all the links on the page in the desktop and mobile version. Everything worked as intended and the side displays the content correctly on all formats.
+
+### Validator Testing
+
+- HTML
+    - There were no errors returned on the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F)
+- CSS
+    - There were no errors as well when passing the [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F%23health-benefits&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+## Deployment
+The website got deployed to GitHub pages. Following are the steps taken:
+- In the GitHub repository navigate to Settings
+- Under the point "Code and Automation" click on pages
+- Change source to deploy from branch
+- Change branch to main and root
+
 
 
 ## Credits
