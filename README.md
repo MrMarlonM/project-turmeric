@@ -86,6 +86,11 @@ The website got deployed to GitHub pages. Following are the steps taken:
 
 
 ## Credits
+
+### Code references
+
+
+
 ### Media
 [turmeric-art](https://pixabay.com/de/illustrations/kurkuma-w%C3%BCrzen-k%C3%BCche-komponente-8397097/)  
 [favicon image](https://pixabay.com/de/vectors/kurkuma-w%C3%BCrzen-wurzel-w%C3%BCrze-gesund-2511399/)  
