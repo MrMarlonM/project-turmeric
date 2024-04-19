@@ -87,6 +87,10 @@ The website got deployed to GitHub pages. Following are the steps taken:
 
 ## Credits
 
+## Code
+
+For the CSS wildcard selector used to override default styles of the browser and the HTML implementation of the favicon, I referenced code of the Love Running walkthrough project. Comments about the code clear up which lines are meant.
+
 ### Tools
 The following pages and program were used in creation of the webpage:
 - [Google Fonts](https://fonts.google.com/) to implement the used Font
@@ -94,6 +98,7 @@ The following pages and program were used in creation of the webpage:
 - [Balsamiq](https://balsamiq.com/) to create Wireframes for the project
 - [Fontawesome](https://fontawesome.com/) for logos
 - [favicon.io](https://favicon.io/) to create the favicon
+- [freeconvert.com](https://www.freeconvert.com/de/webp-converter) to convert images into webp format
 
 
 ### Media
@@ -112,3 +117,9 @@ The following pages and program were used in creation of the webpage:
 
 #### Health Benefits
 [Cleveland Clinc](https://health.clevelandclinic.org/turmeric-health-benefits)
+
+## Acknowledgements
+
+- I want to thank [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for her guidance and mentoring throughout the project
+- Many thanks to [Code Institute](https://codeinstitute.net/) for providing the learning content
+- Also I want to thank [Kevin Powell](https://www.kevinpowell.co/) for great tutorials on Youtube
