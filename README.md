@@ -60,6 +60,14 @@ To make the this part of the page more mobile friendly, the bigger image gets hi
 
 ![Image of last section on mobile](documentation/section-newsletter-mobile.webp)
 
+### Footer
+The footer is kept really simple and since it does not contain many informations, it doesn't stick to the bottom of the page.  
+On desktop devices as well as on mobile devices, the footer contains the name of the author with a link to github when you click on it. Also it contains the logo of the page which brings you back to the top of the page when clicked on it, as well as some copyright information.
+
+![Image of footer on desktop](documentation/footer.webp)
+
+## Testing
+
 
 ## Credits
 ### Media
