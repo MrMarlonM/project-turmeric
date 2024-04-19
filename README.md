@@ -1,6 +1,14 @@
+![Title of page](documentation/title-image.webp)
+
 # Turmeric - a spice full of wonders!
 
+Turmeric is truly a astonishing plant with many great properties.  
+On this website some of the benefits shall be presented to win subscribers for a newsletter and social media followers.
 
+![Responsive Mockup](documentation/responsive-image.webp)
+
+## Features
+The side should contain some interesting facts about the plant, as well as some supposed medical benefits. Together with some colorful images, it should make people interested in learning more about it. At the end of the page there will be the option to subscribe to a newsletter or alternatively join the creator on social media to learn more.
 
 ## Images
 [Image 1](https://pixabay.com/de/illustrations/kurkuma-w%C3%BCrzen-k%C3%BCche-komponente-8397097/)  
