@@ -38,6 +38,27 @@ On smaller devices, the paragraphs and images are spanning over the full width o
 
 ![Image of first section on mobile](documentation/section-facts-mobile.webp)
 
+### Section Health Benefits
+
+After getting the visitor engaged with some facts and images, the second section offers some information about the possible health benefits of turmeric. With this in mind, the likelyhood of subscribing to the newsletter for delicious recipes with this "lifesaver" are much higher. Also the engagement with social media to learn more about the health benefits will be higher. 
+
+![Image of second section on desktop](documentation/section-benefits.webp)
+
+To keep up a good reading experience for the visitor, the layout changes for mid-sized and small devices in a way, that the elements contain the whole width of the page. 
+
+![Image of second section on mobile](documentation/section-benefits-mobile.webp)
+
+### Section Newsletter-Recipe
+
+The final section of the page contains two images of delicious food containing turmeric to whet the appetite for some recipes.  
+Also there is a sign up form for the recipe newsletter, where the visitor can hand over his mailadress and name to get send the delicious recipes.  
+Lastly there are some links to the affiliated social media pages for more informations about turmeric and some recipes.
+
+![Image of last section](documentation/section-newsletter.webp)
+
+To make the this part of the page more mobile friendly, the bigger image gets hidden on smaller screens and the content will also be presented in columns instead of rows.
+
+![Image of last section on mobile](documentation/section-newsletter-mobile.webp)
 
 
 ## Credits
