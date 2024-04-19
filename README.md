@@ -87,8 +87,13 @@ The website got deployed to GitHub pages. Following are the steps taken:
 
 ## Credits
 
-### Code references
-
+### Tools
+The following pages and program were used in creation of the webpage:
+- [Google Fonts](https://fonts.google.com/) to implement the used Font
+- [Dopelycolors](https://colors.dopely.top/) to find fitting colors
+- [Balsamiq](https://balsamiq.com/) to create Wireframes for the project
+- [Fontawesome](https://fontawesome.com/) for logos
+- [favicon.io](https://favicon.io/) to create the favicon
 
 
 ### Media
