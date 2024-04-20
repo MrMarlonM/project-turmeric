@@ -10,6 +10,7 @@
 
 /*General styles*/
 body {
+    width: 100%;
     /*Flex parent properties*/
     display: flex;
     flex-direction: column;
