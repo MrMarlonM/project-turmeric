@@ -1,7 +1,6 @@
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-
 /*Asterix wildcard selector to override default styles; referenced from love running walkthrough project*/
 * {
     padding: 0;
@@ -183,7 +182,6 @@ main {
 }
 
 /*Style for signup form*/
-
 #signup {
     background-color: rgba(235, 255, 125);
     max-width: 80%;
