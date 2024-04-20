@@ -240,6 +240,23 @@ legend {
     color: #a3ed61;
 }
 
+/*Styling for confirmation message*/
+#confirmation {
+    background-color: rgb(235, 255, 125);
+    border: 2px black solid;
+    box-shadow: 3px 3px 10px #000000;
+    align-self: center;
+    padding: 5px;
+    text-align: center;
+}
+
+#confirmation button {
+    margin: 20px 0;
+    height: 35px;
+    padding: 0 5px;
+    font-size: 110%;
+}
+
 /*Footer*/
 footer {
     background-color: #f8aa0d;
