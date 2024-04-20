@@ -77,7 +77,6 @@ li>a {
 }
 
 li>a:hover {
-    font-size: 125%;
     color: #a3ed61;
 }
 
@@ -212,6 +211,17 @@ legend {
     margin-bottom: 10px;
 }
 
+/*Styling for submit button*/
+#submit {
+    background-color: #f8aa0d;
+    padding: 5px;
+    font-weight: bold;
+}
+
+#submit:hover {
+    background-color: #a3ed61;
+}
+
 /*Style for social media*/
 #social-media p {
     margin-bottom: 15px;
@@ -224,6 +234,10 @@ legend {
     color: black;
     font-size: 200%;
     margin: 15px;
+}
+
+#social-media a:hover {
+    color: #a3ed61;
 }
 
 /*Footer*/
@@ -247,7 +261,6 @@ span>a {
 }
 
 span>a:hover {
-    font-size: 125%;
     color: #a3ed61;
 }
 
