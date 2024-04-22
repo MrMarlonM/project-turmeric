@@ -7,8 +7,29 @@ On this website some of the benefits shall be presented to win subscribers for a
 
 ![Responsive Mockup](documentation/responsive-image.webp)
 
+## User Storys
+### First time visitors:
+- I want to directly know what the website is about and what information I can get here.
+- I want to be able to easily obtain all the information and navigate the side. 
+- I want to be able to get further information over links to social media or some kind of registration.
+
+### Returning visitors:
+- I want to learn more about the topic.
+- I want to get deeper knowledge.
+- I want to look up recipes from former newsletters.
+
+### Outlook
+To generate operational functionality as soon as possible, the website only focuses on the points described in the user story for the first-time visitors.
+Later, the website could get added on a blog where new medical findings and recipes get posted and are made available to everyone even without subscribing to the newsletter first or following one of the profiles on social media. 
+
+
 ## Features
 The side contains some interesting facts about the plant, as well as some supposed medical benefits. Together with some colorful images, it makes people interested in learning more about it. At the end of the page there will be the option to subscribe to a newsletter or alternatively join the creator on social media to learn more.
+
+### Mobile First vs. Functionality First
+Whilst designing the website I found that the mobile version is in essence a simplified version of the desktop version. To use this to my advantage and make the development process easier and faster, I decided to put the desktop version first and scale it down to the mobile version. This way I could greatly use the properties of flexbox to my advantage and only needed to change the rows to columns to implement a mobile edition. 
+This made the code needed shorter and more concise, which aligns with the specified goal for the webpage to be operational as soon as possible.
+
 
 ### Navigation
 Over all device sizes there will be at the top directly under the header a navigation bar to jump directly to the different sections. 
