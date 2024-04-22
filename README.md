@@ -185,8 +185,8 @@ The website has optimal scores on accessibility, SEO and best practices. Especia
 
 One note about the slightly worse score of the response page in terms of accessibility, here I used the meta tag http-equiv=”refresh” to automatically bring people back to the main page where the content is. This is normally bad practice since the user has no control over it and loses the position where he where on the page. In this case, there is no reason for this argument, since all the content is on the main page and the visitor gets simply redirected back to it.
 
-![Image lighthouse score index](documentation/Lighthouse-test-index.webp)
-![Image lighthouse score response](documentation/Lighthouse-test-response.webp)
+![Image lighthouse score index](documentation/lighthouse-test-index.webp)
+![Image lighthouse score response](documentation/lighthouse-test-response.webp)
 
 ## Deployment
 
@@ -206,8 +206,8 @@ It is also possible to open a cloned version of the page, For that you need to t
 
 ## Wireframes
 Here are the links to the wireframes drawn for the project:  
-[Wireframe dektop version 1/2](documentation/wireframe-desktop-1.webp)  
-[Wireframe dektop version 2/2](documentation/wireframe-desktop-2.webp)  
+[Wireframe desktop version 1/2](documentation/wireframe-desktop-1.webp)  
+[Wireframe desktop version 2/2](documentation/wireframe-desktop-2.webp)  
 [Wireframe mobile version 1/2](documentation/wireframe-mobile-1.webp)  
 [Wireframe mobile version 2/2](documentation/wireframe-mobile-2.webp)
 
