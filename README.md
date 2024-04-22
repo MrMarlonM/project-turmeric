@@ -99,7 +99,9 @@ For the colors were used a mixture of orange-yellowish colors together with a li
 ![Color of accent color light green](documentation/color-accent-light-green.webp)
 
 ## Testing
-To make sure the website works as intended I tested all the links on the page in the desktop and mobile version. Everything worked as intended and the side displays the content correctly on all formats.
+
+### Manual Testing
+
 
 ### Validator Testing
 - HTML
@@ -122,7 +124,12 @@ The website got deployed to GitHub pages. Following are the steps taken:
 - Change source to deploy from branch
 - Change branch to main and root
 
-
+## Wireframes
+Here are the links to the wireframes drawn for the project:  
+[Wireframe dektop version 1/2](documentation/wireframe-desktop-1.webp)  
+[Wireframe dektop version 2/2](documentation/wireframe-desktop-2.webp)  
+[Wireframe mobile version 1/2](documentation/wireframe-mobile-1.webp)  
+[Wireframe mobile version 2/2](documentation/wireframe-mobile-2.webp)
 
 ## Credits
 ### Code
