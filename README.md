@@ -87,6 +87,21 @@ On desktop devices as well as on mobile devices, the footer contains the name of
 
 ![Image of footer on desktop](documentation/footer.webp)
 
+## Design
+### Font
+As font was “Open Sans” used and implemented over Google Fonts. It is a simple and classy font with gives a clean and easy look to the website and maintains great readability even on small screens.
+
+![Image of font open sans regular](documentation/open-sans-regular.webp)
+![Image of font open sans bold](documentation/open-sans-bold.webp)
+
+### Colors
+For the colors were used a mixture of orange-yellowish colors together with a light-green background and even lighter green for contrast. The colors were taken to fit to the theme of the plant and look friendly whilst induce happiness when visiting the page. 
+
+![Image of color background green](documentation/color-background-green.webp)
+![Image of color header footer orange](documentation/color-header-footer-orange.webp)
+![Image of color main section yellowish](documentation/color-main-yellowish.webp)
+![Color of accent color light green](documentation/color-accent-light-green.webp)
+
 ## Testing
 To make sure the website works as intended I tested all the links on the page in the desktop and mobile version. Everything worked as intended and the side displays the content correctly on all formats.
 
