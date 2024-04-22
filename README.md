@@ -1,15 +1,15 @@
 ![Title of page](documentation/title-image.webp)
 
 # Turmeric - a spice full of wonders!
-Turmeric is truly a astonishing plant with many great properties.  
-On this website some of the benefits shall be presented to win subscribers for a newsletter and social media followers.
+Turmeric is truly an astonishing plant with many great properties.  
+On this website, some of the benefits shall be presented to win subscribers for a newsletter and social media followers.
 
 The deployed page can be found [here](https://mrmarlonm.github.io/project-turmeric/).
 
 ![Responsive Mockup](documentation/responsive-image.webp)
 
 ## User Storys
-### First time visitors:
+### First-time visitors:
 - I want to directly know what the website is about and what information I can get here.
 - I want to be able to easily obtain all the information and navigate the side. 
 - I want to be able to get further information over links to social media or some kind of registration.
@@ -20,32 +20,32 @@ The deployed page can be found [here](https://mrmarlonm.github.io/project-turmer
 - I want to look up recipes from former newsletters.
 
 ### Outlook
-To generate operational functionality as soon as possible, the website only focuses on the points described in the user story for the first-time visitors.
+To generate operational functionality as soon as possible, the website only focuses on the points described in the user story for first-time visitors.
 Later, the website a blog can be added where new medical findings and recipes get posted and are made available to everyone even without subscribing to the newsletter first or following one of the profiles on social media. 
 
 
 ## Features
-The side contains some interesting facts about the plant, as well as some supposed medical benefits. Together with some colorful images, it makes people interested in learning more about it. At the end of the page there will be the option to subscribe to a newsletter or alternatively join the creator on social media to learn more.
+The site contains some interesting facts about the plant, as well as some supposed medical benefits. Together with some colorful images, it makes people interested in learning more about it. At the end of the page, there will be the option to subscribe to a newsletter or join the creator on social media to learn more.
 
 ### Mobile First vs. Functionality First
-Whilst designing the website I found that the mobile version is in essence a simplified version of the desktop version. To use this to my advantage and make the development process easier and faster, I decided to put the desktop version first and scale it down to the mobile version. This way I could greatly use the properties of flexbox to my advantage and only needed to change the rows to columns to implement a mobile edition. 
-This made the code needed shorter and more concise, which aligns with the specified goal for the webpage to be operational as soon as possible.
+Whilst designing the website I found that the mobile version is in essence a simplified version of the desktop version. To use this to my advantage and make the development process easier and faster, I decided to put the desktop version first and scale it down to the mobile version. This way I could greatly use the properties of flex-box to my advantage and only needed to change the rows to columns to implement a mobile edition. 
+This made the code needed more concise, which aligns with the specified goal for the webpage to be operational as soon as possible.
 
 
 ### Navigation
-Over all device sizes there will be at the top directly under the header a navigation bar to jump directly to the different sections. 
+Over all device sizes, there will be at the top directly under the header a navigation bar to jump directly to the different sections. 
 
-![Image of navigation bar](documentation/navigation-image.webp)
+![Image of the navigation bar](documentation/navigation-image.webp)
 
-Since the website is build as an endless scroll, the navigation bar sticks to the top of the screen whilst scrolling down, to maintain navigability throughout the page.
+Since the website is built as an endless scroll, the navigation bar sticks to the top of the screen whilst scrolling down, to maintain navigability throughout the page.
 
-![Image of nagivation bar on scrolled down page](documentation/sticky-navigation-image.webp)
+![Image of the navigation bar on scrolling down the page](documentation/sticky-navigation-image.webp)
 
 On mobile devices with a smaller screen, the navigation bar keeps the same properties as on bigger devices.
 
-![Image of navigation bar on mobile device](documentation/small-mobile-navigation.webp)
+![Image of the navigation bar on a mobile device](documentation/small-mobile-navigation.webp)
 
-Also when you sroll down on a small device, the navigation bar stays at the top.
+Also when you scroll down on a small device, the navigation bar stays at the top.
 
 ![Image of navigation bar scrolled down](documentation/small-mobile-sticky-navigation.webp)
 
@@ -53,37 +53,37 @@ Also when you sroll down on a small device, the navigation bar stays at the top.
 As described earlier, the website contains some interesting facts about turmeric. The goal of this section is to make a visitor curious about the plant and start scrolling to learn more. In the first section are three facts provided together with some images.  
 On bigger devices the content in the first section alternates between the left and right of the section to make it visually more appealing.
 
-![Image of first section on desktop](documentation/section-facts.webp)
+![Image of the first section on a desktop](documentation/section-facts.webp)
 
-On smaller devices, the paragraphs and images are spanning over the full width of the screen to maintain good readability.
+On smaller devices, the paragraphs and images span over the full width of the screen to maintain good readability.
 
-![Image of first section on mobile](documentation/section-facts-mobile.webp)
+![Image of the first section on a mobile device](documentation/section-facts-mobile.webp)
 
 ### Section Health Benefits
-After getting the visitor engaged with some facts and images, the second section offers some information about the possible health benefits of turmeric. With this in mind, the likelyhood of subscribing to the newsletter for delicious recipes with this "lifesaver" are much higher. Also the engagement with social media to learn more about the health benefits will be higher. 
+After getting the visitor engaged with some facts and images, the second section offers some information about the possible health benefits of turmeric. With this in mind, the likelihood of subscribing to the newsletter for delicious recipes with this "lifesaver" is much higher. Also, the engagement with social media to learn more about the health benefits will be higher. 
 
-![Image of second section on desktop](documentation/section-benefits.webp)
+![Image of the second section on a desktop](documentation/section-benefits.webp)
 
 To keep up a good reading experience for the visitor, the layout changes for mid-sized and small devices in a way, that the elements contain the whole width of the page. 
 
-![Image of second section on mobile](documentation/section-benefits-mobile.webp)
+![Image of the second section on a mobile device](documentation/section-benefits-mobile.webp)
 
 ### Section Newsletter-Recipe
 The final section of the page contains two images of delicious food containing turmeric to whet the appetite for some recipes.  
-Also there is a sign up form for the recipe newsletter, where the visitor can hand over his mailadress and name to get send the delicious recipes.  
-Lastly there are some links to the affiliated social media pages for more informations about turmeric and some recipes.
+Also, there is a signup form for the recipe newsletter, where the visitor can hand over his mail address and name to get the delicious recipes.  
+Lastly, there are some links to the affiliated social media pages for more information about turmeric and some recipes.
 
-![Image of last section](documentation/section-newsletter.webp)
+![Image of the last section](documentation/section-newsletter.webp)
 
-To make the this part of the page more mobile friendly, the bigger image gets hidden on smaller screens and the content will also be presented in columns instead of rows.
+To make this part of the page more mobile-friendly, the bigger image gets hidden on smaller screens and the content will also be presented in columns instead of rows.
 
-![Image of last section on mobile](documentation/section-newsletter-mobile.webp)
+![Image of the last section on mobile](documentation/section-newsletter-mobile.webp)
 
 ### Footer
-The footer is kept really simple and since it does not contain many informations, it doesn't stick to the bottom of the page.  
-On desktop devices as well as on mobile devices, the footer contains the name of the author with a link to github when you click on it. Also it contains the logo of the page which brings you back to the top of the page when clicked on it, as well as some copyright information.
+The footer is kept simple and since it does not contain much information, it doesn't stick to the bottom of the page.  
+On desktop devices as well as on mobile devices, the footer contains the name of the author with a link to Git Hub when you click on it. Also, it contains the logo of the page which brings you back to the top of the page when you click on it, as well as some copyright information.
 
-![Image of footer on desktop](documentation/footer.webp)
+![Image of the footer on a desktop](documentation/footer.webp)
 
 ## Design
 ### Font
@@ -93,7 +93,7 @@ As font was “Open Sans” used and implemented over Google Fonts. It is a simp
 ![Image of font open sans bold](documentation/open-sans-bold.webp)
 
 ### Colors
-For the colors were used a mixture of orange-yellowish colors together with a light-green background and even lighter green for contrast. The colors were taken to fit to the theme of the plant and look friendly whilst induce happiness when visiting the page. 
+For the colors a mixture of orange-yellowish colors together with a light-green background and even lighter green for contrast was used. The colors were taken to fit the theme of the plant and look friendly whilst inducing happiness when visiting the page. 
 
 ![Image of color background green](documentation/color-background-green.webp)
 ![Image of color header footer orange](documentation/color-header-footer-orange.webp)
@@ -103,7 +103,7 @@ For the colors were used a mixture of orange-yellowish colors together with a li
 ## Testing
 
 ### Manual Testing
-To ensure proper functioning of the page, I tested the webpage on Chrome, Firefox and Opera and on my Google Pixel Phone. On all three Browsers and on the phone the website behaved as it should and no problems could be found. Further down you find the data of the manual testing.
+To ensure the proper functioning of the page, I tested the webpage on Chrome, Firefox, Opera and my Google Pixel Phone. On all three Browsers and the phone, the website behaved as it should and no problems could be found. Further down you find the data of the manual testing.
 
 | Browser | Action | Expected Result | Did it work? | Notes |
 | --- | --- | --- | --- | --- |
@@ -191,12 +191,12 @@ One note about the slightly worse score of the response page in terms of accessi
 ## Deployment
 
 ### Deployment to Github Pages
-The website got deployed to GitHub pages ([here](https://mrmarlonm.github.io/project-turmeric/)). 
+The website was deployed to GitHub pages ([here](https://mrmarlonm.github.io/project-turmeric/)). 
 
 Following are the steps taken:
 - In the GitHub repository navigate to Settings
 - Under the point "Code and Automation" click on pages
-- Find the drop-down menu for soure section and select the Main Branch
+- Find the drop-down menu for the source section and select the Main Branch
 - Click on "Save"
 - Now the page is deployed and after refreshing the page a link to the page will be provided
 
@@ -213,29 +213,29 @@ Here are the links to the wireframes drawn for the project:
 
 ## Credits
 ### Code
-For the CSS wildcard selector used to override default styles of the browser and the HTML implementation of the favicon, I referenced code of the Love Running walkthrough project. Comments about the code clear up which lines are meant.
+For the CSS wildcard selector used to override the default styles of the browser and the HTML implementation of the favicon, I referenced the code of the Love Running walkthrough project. Comments about the code clear up which lines are meant.
 
 ### README
 To make the readme file as helpful and understandable as possible, I used the [love-running-project](https://github.com/lucyrush/readme-love-running) readme file provided by [Code Institute](https://codeinstitute.net/) and the [animal_shelter](https://github.com/IuliiaKonovalova/animal_shelter) readme file from [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for guidance.
 
 ### Technology used
-- To create general structure [HTML](https://www.w3schools.com/html/) was used
+- To create a general structure [HTML](https://www.w3schools.com/html/) was used
 - To add style and responsiveness to the website [CSS](https://www.w3schools.com/html/html_css.asp) was used
     - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) was used to make elements responsive
-    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) were used to bring changes to different sized viewports not possible with flexbox
+    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) were used to bring changes to different-sized viewports not possible with flex-box
 - To create wireframes the software [Balsamiq](https://balsamiq.com/) was used
 - For writing and editing the code [Gitpod](https://www.gitpod.io/) was used
 - To host the code and the website [Github](https://github.com/) was used
 - For the version control of the website [Git](https://git-scm.com/) was used
 
 ### Tools
-The following pages and program were used in creation of the webpage:
+The following pages and programs were used in the creation of the webpage:
 - [Google Fonts](https://fonts.google.com/) to implement the used Font
 - [Dopelycolors](https://colors.dopely.top/) to find fitting colors
 - [Balsamiq](https://balsamiq.com/) to create Wireframes for the project
 - [Fontawesome](https://fontawesome.com/) for logos
 - [favicon.io](https://favicon.io/) to create the favicon
-- [freeconvert.com](https://www.freeconvert.com/de/webp-converter) to convert images into webp format
+- [freeconvert.com](https://www.freeconvert.com/de/webp-converter) to convert images into webp-format
 
 ### Media
 [turmeric-art](https://pixabay.com/de/illustrations/kurkuma-w%C3%BCrzen-k%C3%BCche-komponente-8397097/)  
@@ -259,11 +259,10 @@ The following pages and program were used in creation of the webpage:
 There are no unsolved bugs.
 
 ### Mistakes
-- Whilst building the website the mobile first approach was not used, to make the building process simpler. I learned a lot about responsive designs throughout the project and will certainly implement a mobile-first approach in the future.
-- The README document got written at the end of the project not whilst and before it. It certainly would have helped with the planning, documentation and implementation process and will be done in future projects.
-    - Adding to this, there were no major bugs to report and there is no overview afterwards of smaller problems, because of the mentioned point.
+- Whilst building the website the mobile-first approach was not used, to make the building process simpler. I learned a lot about responsive designs throughout the project and will certainly implement a mobile-first approach in the future.
+- The README document was written at the end of the project not whilst and before it. It certainly would have helped with the planning, documentation and implementation process and will be done in future projects.
 
-## Acknowledgements
+##  Acknowledgments
 - I want to thank [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for her guidance and mentoring throughout the project
-- Many thanks to [Code Institute](https://codeinstitute.net/) for providing the learning content
-- Also I want to thank [Kevin Powell](https://www.kevinpowell.co/) for great tutorials on Youtube
+- Many thanks to [Code Institute],(https://codeinstitute.net/) for providing the learning content
+- Also, I want to thank [Kevin Powell](https://www.kevinpowell.co/) for great tutorials on Youtube
