@@ -4,6 +4,8 @@
 Turmeric is truly a astonishing plant with many great properties.  
 On this website some of the benefits shall be presented to win subscribers for a newsletter and social media followers.
 
+The deployed page can be found [here](https://mrmarlonm.github.io/project-turmeric/).
+
 ![Responsive Mockup](documentation/responsive-image.webp)
 
 ## User Storys
@@ -179,6 +181,7 @@ it is in right format |
 
 ### Google Lighthouse
 The website has optimal scores on accessibility, SEO and best practices. Especially important is the high accessibility score, since it confirms, that the used colors, fonts and (aria) labels are correctly chosen and work as intended without excluding any people from using the website. 
+
 One note about the slightly worse score of the response page in terms of accessibility, here I used the meta tag http-equiv=”refresh” to automatically bring people back to the main page where the content is. This is normally bad practice since the user has no control over it and loses the position where he where on the page. In this case, there is no reason for this argument, since all the content is on the main page and the visitor gets simply redirected back to it.
 
 ![Image lighthouse score index](documentation/Lighthouse-test-index.webp)
@@ -186,11 +189,20 @@ One note about the slightly worse score of the response page in terms of accessi
 
 
 ## Deployment
-The website got deployed to GitHub pages. Following are the steps taken:
+
+### Deployment to Github Pages
+The website got deployed to GitHub pages ([here](https://mrmarlonm.github.io/project-turmeric/)). 
+
+Following are the steps taken:
 - In the GitHub repository navigate to Settings
 - Under the point "Code and Automation" click on pages
-- Change source to deploy from branch
-- Change branch to main and root
+- Find the drop-down menu for soure section and select the Main Branch
+- Click on "Save"
+- Now the page is deployed and after refreshing the page a link to the page will be provided
+
+### Local Deployment
+It is also possible to open a cloned version of the page, For that you need to type the following in your IDE Terminal:
+- git clone https://github.com/MrMarlonM/project-turmeric.git
 
 ## Wireframes
 Here are the links to the wireframes drawn for the project:  
@@ -202,6 +214,9 @@ Here are the links to the wireframes drawn for the project:
 ## Credits
 ### Code
 For the CSS wildcard selector used to override default styles of the browser and the HTML implementation of the favicon, I referenced code of the Love Running walkthrough project. Comments about the code clear up which lines are meant.
+
+### README
+To make the readme file as helpful and understandable as possible, I used the [love-running-project](https://github.com/lucyrush/readme-love-running) readme file provided by [Code Institute](https://codeinstitute.net/) and the [animal_shelter](https://github.com/IuliiaKonovalova/animal_shelter) readme file from [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for guidance.
 
 ### Technology used
 - To create general structure [HTML](https://www.w3schools.com/html/) was used
