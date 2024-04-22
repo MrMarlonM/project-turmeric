@@ -1,7 +1,6 @@
 ![Title of page](documentation/title-image.webp)
 
 # Turmeric - a spice full of wonders!
-
 Turmeric is truly a astonishing plant with many great properties.  
 On this website some of the benefits shall be presented to win subscribers for a newsletter and social media followers.
 
@@ -49,7 +48,6 @@ Also when you sroll down on a small device, the navigation bar stays at the top.
 ![Image of navigation bar scrolled down](documentation/small-mobile-sticky-navigation.webp)
 
 ### Section Interesting Facts
-
 As described earlier, the website contains some interesting facts about turmeric. The goal of this section is to make a visitor curious about the plant and start scrolling to learn more. In the first section are three facts provided together with some images.  
 On bigger devices the content in the first section alternates between the left and right of the section to make it visually more appealing.
 
@@ -60,7 +58,6 @@ On smaller devices, the paragraphs and images are spanning over the full width o
 ![Image of first section on mobile](documentation/section-facts-mobile.webp)
 
 ### Section Health Benefits
-
 After getting the visitor engaged with some facts and images, the second section offers some information about the possible health benefits of turmeric. With this in mind, the likelyhood of subscribing to the newsletter for delicious recipes with this "lifesaver" are much higher. Also the engagement with social media to learn more about the health benefits will be higher. 
 
 ![Image of second section on desktop](documentation/section-benefits.webp)
@@ -70,7 +67,6 @@ To keep up a good reading experience for the visitor, the layout changes for mid
 ![Image of second section on mobile](documentation/section-benefits-mobile.webp)
 
 ### Section Newsletter-Recipe
-
 The final section of the page contains two images of delicious food containing turmeric to whet the appetite for some recipes.  
 Also there is a sign up form for the recipe newsletter, where the visitor can hand over his mailadress and name to get send the delicious recipes.  
 Lastly there are some links to the affiliated social media pages for more informations about turmeric and some recipes.
@@ -106,7 +102,6 @@ For the colors were used a mixture of orange-yellowish colors together with a li
 To make sure the website works as intended I tested all the links on the page in the desktop and mobile version. Everything worked as intended and the side displays the content correctly on all formats.
 
 ### Validator Testing
-
 - HTML
     - There were no errors returned on the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F)
 - CSS
@@ -130,10 +125,19 @@ The website got deployed to GitHub pages. Following are the steps taken:
 
 
 ## Credits
-
-## Code
-
+### Code
 For the CSS wildcard selector used to override default styles of the browser and the HTML implementation of the favicon, I referenced code of the Love Running walkthrough project. Comments about the code clear up which lines are meant.
+
+### Technology used
+- To create general structure [HTML](https://www.w3schools.com/html/) was used
+- To add style and responsiveness to the website [CSS](https://www.w3schools.com/html/html_css.asp) was used
+    - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) was used to make elements responsive
+    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) were used to bring changes to different sized viewports not possible with flexbox
+- To create wireframes the software [Balsamiq](https://balsamiq.com/) was used
+- For writing and editing the code [Gitpod](https://www.gitpod.io/) was used
+- To host the code and the website [Github](https://github.com/) was used
+- For the version control of the website [Git](https://git-scm.com/) was used
+
 
 ### Tools
 The following pages and program were used in creation of the webpage:
@@ -162,8 +166,16 @@ The following pages and program were used in creation of the webpage:
 #### Health Benefits
 [Cleveland Clinc](https://health.clevelandclinic.org/turmeric-health-benefits)
 
-## Acknowledgements
+## Bugs
+### Unsolved Bugs
+There are no unsolved bugs.
 
+### Mistakes
+- Whilst building the website the mobile first approach was not used, to make the building process simpler. I learned a lot about responsive designs throughout the project and will certainly implement a mobile-first approach in the future.
+- The README document got written at the end of the project not whilst and before it. It certainly would have helped with the planning, documentation and implementation process and will be done in future projects.
+    - Adding to this, there were no major bugs to report and there is no overview afterwards of smaller problems, because of the mentioned point.
+
+## Acknowledgements
 - I want to thank [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for her guidance and mentoring throughout the project
 - Many thanks to [Code Institute](https://codeinstitute.net/) for providing the learning content
 - Also I want to thank [Kevin Powell](https://www.kevinpowell.co/) for great tutorials on Youtube
