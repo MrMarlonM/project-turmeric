@@ -176,7 +176,7 @@ it is in right format |
 ### Validator Testing
 - HTML
     - There were no errors returned on the official [W3C validator index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F)
-    - There were no errors returned on the official [W3C validator response.html]([https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2Fresponse.html%3Ffirst-name%3DMarlon%26last-name%3DMartynkiewitz%26Email%3Dmarlon.martynkiewitz%2540googlemail.com))
+    - There were no errors returned on the official [W3C validator response.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2Fresponse.html%3Ffirst-name%3DMarlon%26last-name%3DMartynkiewitz%26Email%3Dmarlon.martynkiewitz%2540googlemail.com)
 - CSS
     - There were no errors as well when passing the [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F%23health-benefits&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
