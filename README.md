@@ -21,7 +21,7 @@ The deployed page can be found [here](https://mrmarlonm.github.io/project-turmer
 
 ### Outlook
 To generate operational functionality as soon as possible, the website only focuses on the points described in the user story for the first-time visitors.
-Later, the website could get added on a blog where new medical findings and recipes get posted and are made available to everyone even without subscribing to the newsletter first or following one of the profiles on social media. 
+Later, the website a blog can be added where new medical findings and recipes get posted and are made available to everyone even without subscribing to the newsletter first or following one of the profiles on social media. 
 
 
 ## Features
