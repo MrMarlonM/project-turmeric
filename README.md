@@ -101,7 +101,75 @@ For the colors were used a mixture of orange-yellowish colors together with a li
 ## Testing
 
 ### Manual Testing
+To ensure proper functioning of the page, I tested the webpage on Chrome, Firefox and Opera and on my Google Pixel Phone. On all three Browsers and on the phone the website behaved as it should and no problems could be found. Further down you find the data of the manual testing.
 
+| Browser | Action | Expected Result | Did it work? | Notes |
+| --- | --- | --- | --- | --- |
+| Chrome | Nav "Interesting Facts" | Jump to section 1 | Yes | - |
+| Chrome | Nav "Health Benefits" | Jump to section 2 | Yes | - |
+| Chrome | Nav "Recipe-Newsletter" | Jump to section 3 | Yes | - |
+| Chrome | Form "First Name" | Text input possible | Yes | Input is required |
+| Chrome | Form "Last Name" | Text input possible | Yes | Input is required |
+| Chrome | Form "Email" | Email input possible | Yes | Input in right format required |
+it is in right format | 
+| Chrome | Form "Subscribe now!" | Redirection to response page | Yes | Only works when all fields are filled in correctly |
+| Chrome | Link "Facebook" | Open Facebook in new tab | Yes | - |
+| Chrome | Link "X (Twitter)" | Open X in new tab | Yes | - |
+| Chrome | Link "Youtube" | Open YouTube in new tab | Yes | - |
+| Chrome | Footer "Author" | Open Github in new tab | Yes | - |
+| Chrome | Footer "Logo" |  Jump back to top of page | Yes | - |
+| Chrome | Response page "Auto redirect" | Redirecton to index.html after 10 seconds | Yes | - |
+| Chrome | Response page "Button redirect" | Redirect directly to index.html | Yes | - |
+| Chrome | Response page footer "Author" | Open Github in new tab | Yes | - |
+| Chrome | Response page footer "Logo" | Jump to index.html | Yes | - |
+| Firefox | Nav "Interesting Facts" | Jump to section 1 | Yes | - |
+| Firefox | Nav "Health Benefits" | Jump to section 2 | Yes | - |
+| Firefox | Nav "Recipe-Newsletter" | Jump to section 3 | Yes | - |
+| Firefox | Form "First Name" | Text input possible | Yes | Input required |
+| Firefox | Form "Last Name" | Text input possible | Yes | Input required |
+| Firefox | Form "Email" | Email input possible | Yes | Input in right format required |
+| Firefox | Form "Subscribe now!" | Redirection to response page | Yes | Only works when everything is filled in correctly |
+| Firefox | Link "Facebook" | Open Facebook in new tab | Yes | - |
+| Firefox | Link "X (Twitter)" | Open X in new tab | Yes | - |
+| Firefox | Link "Youtube" | Open YouTube in new tab | Yes | - |
+| Firefox | Footer "Author" | Open Github in new tab | Yes | - |
+| Firefox | Footer "Logo" |  Jump back to top of page | Yes | - |
+| Firefox | Response page "Auto redirect" | Redirecton to index.html after 10 seconds | Yes | - |
+| Firefox | Response page "Button redirect" | Redirect directly to index.html | Yes | - |
+| Firefox | Response page footer "Author" | Open Github in new tab | Yes | - |
+| Firefox | Response page footer "Logo" | Jump to index.html | Yes | - |
+| Opera | Nav "Interesting Facts" | Jump to section 1 | Yes | - |
+| Opera | Nav "Health Benefits" | Jump to section 2 | Yes | - |
+| Opera | Nav "Recipe-Newsletter" | Jump to section 3 | Yes | - |
+| Opera | Form "First Name" | Text input possible | Yes | Input required |
+| Opera | Form "Last Name" | Text input possible | Yes | Input required |
+| Opera | Form "Email" | Email input possible | Yes | Input in right format required |
+| Opera | Form "Subscribe now!" | Redirection to response page | Yes | Only works when everything is filled in correctly |
+| Opera | Link "Facebook" | Open Facebook in new tab | Yes | - |
+| Opera | Link "X (Twitter)" | Open X in new tab | Yes | - |
+| Opera | Link "Youtube" | Open YouTube in new tab | Yes | - |
+| Opera | Footer "Author" | Open Github in new tab | Yes | - |
+| Opera | Footer "Logo" |  Jump back to top of page | Yes | - |
+| Opera | Response page "Auto redirect" | Redirecton to index.html after 10 seconds | Yes | - |
+| Opera | Response page "Button redirect" | Redirect directly to index.html | Yes | - |
+| Opera | Response page footer "Author" | Open Github in new tab | Yes | - |
+| Opera | Response page footer "Logo" | Jump to index.html | Yes | - |
+| Pixel Phone | Nav "Interesting Facts" | Jump to section 1 | Yes | - |
+| Pixel Phone | Nav "Health Benefits" | Jump to section 2 | Yes | - |
+| Pixel Phone | Nav "Recipe-Newsletter" | Jump to section 3 | Yes | - |
+| Pixel Phone | Form "First Name" | Text input possible | Yes |Input required |
+| Pixel Phone | Form "Last Name" | Text input possible | Yes | Input required |
+| Pixel Phone | Form "Email" | Email input possible | Yes | Input required |
+| Pixel Phone | Form "Subscribe now!" | Redirection to response page | Yes | Only works when everything is filled in correctly |
+| Pixel Phone | Link "Facebook" | Open Facebook in new tab | Yes | - |
+| Pixel Phone | Link "X (Twitter)" | Open X in new tab | Yes | - |
+| Pixel Phone | Link "Youtube" | Open YouTube in new tab | Yes | - |
+| Pixel Phone | Footer "Author" | Open Github in new tab | Yes | - |
+| Pixel Phone | Footer "Logo" |  Jump back to top of page | Yes | - |
+| Pixel Phone | Response page "Auto redirect" | Redirecton to index.html after 10 seconds | Yes | - |
+| Pixel Phone | Response page "Button redirect" | Redirect directly to index.html | Yes | - |
+| Pixel Phone | Response page footer "Author" | Open Github in new tab | Yes | - |
+| Pixel Phone | Response page footer "Logo" | Jump to index.html | Yes | - |
 
 ### Validator Testing
 - HTML
