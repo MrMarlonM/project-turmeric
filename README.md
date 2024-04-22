@@ -112,6 +112,14 @@ To make sure the website works as intended I tested all the links on the page in
 - CSS
     - There were no errors as well when passing the [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F%23health-benefits&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+### Google Lighthouse
+The website has optimal scores on accessibility, SEO and best practices. Especially important is the high accessibility score, since it confirms, that the used colors, fonts and (aria) labels are correctly chosen and work as intended without excluding any people from using the website. 
+One note about the slightly worse score of the response page in terms of accessibility, here I used the meta tag http-equiv=”refresh” to automatically bring people back to the main page where the content is. This is normally bad practice since the user has no control over it and loses the position where he where on the page. In this case, there is no reason for this argument, since all the content is on the main page and the visitor gets simply redirected back to it.
+
+![Image lighthouse score index](documentation/Lighthouse-test-index.webp)
+![Image lighthouse score response](documentation/Lighthouse-test-response.webp)
+
+
 ## Deployment
 The website got deployed to GitHub pages. Following are the steps taken:
 - In the GitHub repository navigate to Settings
