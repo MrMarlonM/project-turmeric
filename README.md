@@ -175,7 +175,8 @@ it is in right format |
 
 ### Validator Testing
 - HTML
-    - There were no errors returned on the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F)
+    - There were no errors returned on the official [W3C validator index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F)
+    - There were no errors returned on the official [W3C validator response.html]([https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2Fresponse.html%3Ffirst-name%3DMarlon%26last-name%3DMartynkiewitz%26Email%3Dmarlon.martynkiewitz%2540googlemail.com))
 - CSS
     - There were no errors as well when passing the [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmrmarlonm.github.io%2Fproject-turmeric%2F%23health-benefits&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -186,7 +187,6 @@ One note about the slightly worse score of the response page in terms of accessi
 
 ![Image lighthouse score index](documentation/Lighthouse-test-index.webp)
 ![Image lighthouse score response](documentation/Lighthouse-test-response.webp)
-
 
 ## Deployment
 
@@ -228,7 +228,6 @@ To make the readme file as helpful and understandable as possible, I used the [l
 - To host the code and the website [Github](https://github.com/) was used
 - For the version control of the website [Git](https://git-scm.com/) was used
 
-
 ### Tools
 The following pages and program were used in creation of the webpage:
 - [Google Fonts](https://fonts.google.com/) to implement the used Font
@@ -237,7 +236,6 @@ The following pages and program were used in creation of the webpage:
 - [Fontawesome](https://fontawesome.com/) for logos
 - [favicon.io](https://favicon.io/) to create the favicon
 - [freeconvert.com](https://www.freeconvert.com/de/webp-converter) to convert images into webp format
-
 
 ### Media
 [turmeric-art](https://pixabay.com/de/illustrations/kurkuma-w%C3%BCrzen-k%C3%BCche-komponente-8397097/)  
