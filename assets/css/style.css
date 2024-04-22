@@ -78,6 +78,7 @@ li>a {
 
 li>a:hover {
     color: #a3ed61;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 /*Main section*/
@@ -238,6 +239,7 @@ legend {
 
 #social-media a:hover {
     color: #a3ed61;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 /*Styling for confirmation message*/
