@@ -250,7 +250,13 @@ legend {
     text-align: center;
 }
 
-#confirmation button {
+#confirmation form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#confirmation-button {
     margin: 20px 0;
     height: 35px;
     padding: 0 5px;
