@@ -27,6 +27,16 @@ Later, the website a blog can be added where new medical findings and recipes ge
 ## Features
 The site contains some interesting facts about the plant, as well as some supposed medical benefits. Together with some colorful images, it makes people interested in learning more about it. At the end of the page, there will be the option to subscribe to a newsletter or join the creator on social media to learn more.
 
+### Technology used
+- To create a general structure [HTML](https://www.w3schools.com/html/) was used
+- To add style and responsiveness to the website [CSS](https://www.w3schools.com/html/html_css.asp) was used
+    - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) was used to make elements responsive
+    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) were used to bring changes to different-sized viewports not possible with flex-box
+- To create wireframes the software [Balsamiq](https://balsamiq.com/) was used
+- For writing and editing the code [Gitpod](https://www.gitpod.io/) was used
+- To host the code and the website [Github](https://github.com/) was used
+- For the version control of the website [Git](https://git-scm.com/) was used
+
 ### Mobile First vs. Functionality First
 Whilst designing the website I found that the mobile version is in essence a simplified version of the desktop version. To use this to my advantage and make the development process easier and faster, I decided to put the desktop version first and scale it down to the mobile version. This way I could greatly use the properties of flex-box to my advantage and only needed to change the rows to columns to implement a mobile edition. 
 This made the code needed more concise, which aligns with the specified goal for the webpage to be operational as soon as possible.
@@ -86,6 +96,13 @@ On desktop devices as well as on mobile devices, the footer contains the name of
 ![Image of the footer on a desktop](documentation/footer.webp)
 
 ## Design
+### Wireframes
+Here are the links to the wireframes drawn for the project:  
+[Wireframe desktop version 1/2](documentation/wireframe-desktop-1.webp)  
+[Wireframe desktop version 2/2](documentation/wireframe-desktop-2.webp)  
+[Wireframe mobile version 1/2](documentation/wireframe-mobile-1.webp)  
+[Wireframe mobile version 2/2](documentation/wireframe-mobile-2.webp)
+
 ### Font
 As font was “Open Sans” used and implemented over Google Fonts. It is a simple and classy font with gives a clean and easy look to the website and maintains great readability even on small screens.
 
@@ -101,7 +118,6 @@ For the colors a mixture of orange-yellowish colors together with a light-green 
 ![Color of accent color light green](documentation/color-accent-light-green.webp)
 
 ## Testing
-
 ### Manual Testing
 To ensure the proper functioning of the page, I tested the webpage on Chrome, Firefox, Opera and my Google Pixel Phone. On all three Browsers and the phone, the website behaved as it should and no problems could be found. Further down you find the data of the manual testing.
 
@@ -193,7 +209,7 @@ One note about the slightly worse score of the response page in terms of accessi
 ### Deployment to Github Pages
 The website was deployed to GitHub pages ([here](https://mrmarlonm.github.io/project-turmeric/)). 
 
-Following are the steps taken:
+Here are the steps taken:
 - In the GitHub repository navigate to Settings
 - Under the point "Code and Automation" click on pages
 - Find the drop-down menu for the source section and select the Main Branch
@@ -204,29 +220,12 @@ Following are the steps taken:
 It is also possible to open a cloned version of the page, For that you need to type the following in your IDE Terminal:
 - git clone https://github.com/MrMarlonM/project-turmeric.git
 
-## Wireframes
-Here are the links to the wireframes drawn for the project:  
-[Wireframe desktop version 1/2](documentation/wireframe-desktop-1.webp)  
-[Wireframe desktop version 2/2](documentation/wireframe-desktop-2.webp)  
-[Wireframe mobile version 1/2](documentation/wireframe-mobile-1.webp)  
-[Wireframe mobile version 2/2](documentation/wireframe-mobile-2.webp)
-
 ## Credits
 ### Code
 For the CSS wildcard selector used to override the default styles of the browser and the HTML implementation of the favicon, I referenced the code of the Love Running walkthrough project. Comments about the code clear up which lines are meant.
 
 ### README
 To make the readme file as helpful and understandable as possible, I used the [love-running-project](https://github.com/lucyrush/readme-love-running) readme file provided by [Code Institute](https://codeinstitute.net/) and the [animal_shelter](https://github.com/IuliiaKonovalova/animal_shelter) readme file from [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for guidance.
-
-### Technology used
-- To create a general structure [HTML](https://www.w3schools.com/html/) was used
-- To add style and responsiveness to the website [CSS](https://www.w3schools.com/html/html_css.asp) was used
-    - [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) was used to make elements responsive
-    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) were used to bring changes to different-sized viewports not possible with flex-box
-- To create wireframes the software [Balsamiq](https://balsamiq.com/) was used
-- For writing and editing the code [Gitpod](https://www.gitpod.io/) was used
-- To host the code and the website [Github](https://github.com/) was used
-- For the version control of the website [Git](https://git-scm.com/) was used
 
 ### Tools
 The following pages and programs were used in the creation of the webpage:
@@ -252,7 +251,7 @@ The following pages and programs were used in the creation of the webpage:
 [Wikipedia](https://en.wikipedia.org/wiki/Turmeric)
 
 #### Health Benefits
-[Cleveland Clinc](https://health.clevelandclinic.org/turmeric-health-benefits)
+[Cleveland Clinic](https://health.clevelandclinic.org/turmeric-health-benefits)
 
 ## Bugs
 ### Unsolved Bugs
