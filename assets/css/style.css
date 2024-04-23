@@ -23,6 +23,10 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+#body-response {
+    height: 100vh;
+}
+
 /*Heading 2 general style*/
 
 h2 {
