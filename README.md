@@ -218,7 +218,7 @@ Here are the steps taken:
 
 ### Local Deployment
 It is also possible to open a cloned version of the page, For that you need to type the following in your IDE Terminal:
-- git clone https://github.com/MrMarlonM/project-turmeric.git
+- `git clone https://github.com/MrMarlonM/project-turmeric.git`
 
 ## Credits
 ### Code
@@ -237,6 +237,8 @@ The following pages and programs were used in the creation of the webpage:
 - [freeconvert.com](https://www.freeconvert.com/de/webp-converter) to convert images into webp-format
 
 ### Media
+All the images used on the website are taken from [Pixabay](https://pixabay.com/). Here are the links to the images:
+
 [turmeric-art](https://pixabay.com/de/illustrations/kurkuma-w%C3%BCrzen-k%C3%BCche-komponente-8397097/)  
 [favicon image](https://pixabay.com/de/vectors/kurkuma-w%C3%BCrzen-wurzel-w%C3%BCrze-gesund-2511399/)  
 [turmeric pills](https://pixabay.com/de/photos/kurkuma-kurkumin-lebensmittel-3006644/)  
@@ -246,6 +248,8 @@ The following pages and programs were used in the creation of the webpage:
 [curry-one-bowl](https://pixabay.com/de/photos/curry-lebensmittel-gericht-mahlzeit-7249247/)  
 
 ### Content
+For the facts and medical statements, the following sources were used and directly cited:
+
 #### Interesting facts
 [Herbal Medicine: Biomolecular and Clinical Aspects. 2nd edition. Sahdeo Prasad and Bharat B. Aggarwal.](https://www.ncbi.nlm.nih.gov/books/NBK92752/#:~:text=The%20use%20of%20turmeric%20dates,Jamaica%20in%20the%20eighteenth%20century)
 [Wikipedia](https://en.wikipedia.org/wiki/Turmeric)
@@ -256,6 +260,12 @@ The following pages and programs were used in the creation of the webpage:
 ## Bugs
 ### Unsolved Bugs
 There are no unsolved bugs.
+
+### Solved Bugs
+The following bugs were found whilst deploying the website and were corrected:
+- The button on the response page to get back to the main page did not have any effect on it. To solve the problem, the styling from the submit button of the form field was copied over to the styling of the button. With that, The background color, font size and hover effects were added and it looks now like other links.
+
+- The footer on the response page sits right under the content and is not pushed down to the bottom of the page. To solve this problem, I added an ID to the body of the response page and set a height of 100vh. Since the main section is already targeted to take up all the extra space through flex-box properties, the footer gets pushed down.
 
 ### Mistakes
 - Whilst building the website the mobile-first approach was not used, to make the building process simpler. I learned a lot about responsive designs throughout the project and will certainly implement a mobile-first approach in the future.
