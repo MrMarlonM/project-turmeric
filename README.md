@@ -273,5 +273,5 @@ The following bugs were found whilst deploying the website and were corrected:
 
 ##  Acknowledgments
 - I want to thank [Iuliia Konovalova](https://github.com/IuliiaKonovalova) for her guidance and mentoring throughout the project
-- Many thanks to [Code Institute],(https://codeinstitute.net/) for providing the learning content
+- Many thanks to [Code Institute](https://codeinstitute.net/) for providing the learning content
 - Also, I want to thank [Kevin Powell](https://www.kevinpowell.co/) for great tutorials on Youtube
