@@ -221,6 +221,7 @@ legend {
 
 #submit:hover {
     background-color: #a3ed61;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 /*Style for social media*/
@@ -259,10 +260,17 @@ legend {
 }
 
 #confirmation-button {
+    background-color: #f8aa0d;
+    font-size: 110%;
+    font-weight: bold;
     margin: 20px 0;
     height: 35px;
-    padding: 0 5px;
-    font-size: 110%;
+    padding: 5px;
+}
+
+#confirmation-button:hover {
+    color: #a3ed61;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 /*Footer*/
